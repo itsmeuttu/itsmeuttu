@@ -8,12 +8,22 @@ Hello! I'm Uttam, and I love sharing my knowledge on various subjects. Here you'
 - 🌱 Constantly learning and growing in the world of science and technology.
 
 
-## What You'll Find Here
+## What you'll find in my repositories:
 
-- 🧪 **Chemistry Notes**: In-depth notes on various topics in chemistry, from basic concepts to advanced theories.
-- 📊 **Mathematics Notes**: Clear and concise explanations of mathematical concepts, designed to help you grasp complex ideas.
-- 💻 **Coding Notes**: Tips, tricks, and explanations for various programming languages and technologies.
-- 📚 **Books**: A curated collection of books related to science, mathematics, and programming.
+### 🧪 Chemistry Notes
+- Detailed notes on various chemistry topics to help you understand the subject better.
+
+### ➕ Math Notes
+- Mathematics is the foundation of many fields, and I've shared some of my math notes to make it easier for you to grasp important concepts.
+
+### 💻 Coding Resources
+- Whether you're a beginner or an experienced programmer, you'll find coding notes and resources that can aid your learning journey.
+
+### 📚 Books
+- I've uploaded some of my favorite books. Feel free to explore and read them!
+
+### 🛠️ Small Projects
+- I enjoy working on small coding projects. You can check out some of my coding projects in the repositories.
 
 ## How to Reach Me
 
