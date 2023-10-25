@@ -19,6 +19,9 @@ Hello! I'm Uttam, and I love sharing my knowledge on various subjects. Here you'
 ### 💻 Coding Resources
 - Whether you're a beginner or an experienced programmer, you'll find coding notes and resources that can aid your learning journey.
 
+### 📝 Assignments:
+- Delve into my comprehensive solutions to intriguing problems and assignments, offering insights and approaches that foster deeper understanding.
+
 ### 📚 Books
 - I've uploaded some of my favorite books. Feel free to explore and read them!
 
