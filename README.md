@@ -13,7 +13,7 @@ Hello! I'm Uttam, and I love sharing my knowledge on various subjects. Here you'
 ### 🧪 Chemistry Notes
 - Detailed notes on various chemistry topics to help you understand the subject better.
 
-### ➕ Math Notes
+### ➕ [Math Notes](https://github.com/itsmeuttu/mathematics-notes)
 - Mathematics is the foundation of many fields, and I've shared some of my math notes to make it easier for you to grasp important concepts.
 
 ### 💻 Coding Resources
