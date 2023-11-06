@@ -16,16 +16,16 @@ Hello! I'm Uttam, and I love sharing my knowledge on various subjects. Here you'
 ### ➕ [Math Notes](https://github.com/itsmeuttu/mathematics-notes)
 - Mathematics is the foundation of many fields, and I've shared some of my math notes to make it easier for you to grasp important concepts.
 
-### 💻 Coding Resources
+### 💻 [Coding Resources](https://github.com/itsmeuttu/coding-notes#programming-notes)
 - Whether you're a beginner or an experienced programmer, you'll find coding notes and resources that can aid your learning journey.
 
 ### 📝 Assignments:
 - Delve into my comprehensive solutions to intriguing problems and assignments, offering insights and approaches that foster deeper understanding.
 
-### 📚 Books
+### 📚 [Books](https://github.com/itsmeuttu/textbooks)
 - I've uploaded some of my favorite books. Feel free to explore and read them!
 
-### 🛠️ Small Projects
+### 🛠️ [Small Projects](https://github.com/itsmeuttu/Projects)
 - I enjoy working on small coding projects. You can check out some of my coding projects in the repositories.
 
 ## How to Reach Me
