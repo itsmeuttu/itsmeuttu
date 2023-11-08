@@ -10,7 +10,7 @@ Hello! I'm Uttam, and I love sharing my knowledge on various subjects. Here you'
 
 ## What you'll find in my repositories:
 
-### 🧪 Chemistry Notes
+### 🧪 [Chemistry Notes](https://github.com/itsmeuttu/chemistry-notes/blob/main/README.md)
 - Detailed notes on various chemistry topics to help you understand the subject better.
 
 ### ➕ [Math Notes](https://github.com/itsmeuttu/mathematics-notes)
@@ -22,8 +22,10 @@ Hello! I'm Uttam, and I love sharing my knowledge on various subjects. Here you'
 ### 📝 Assignments:
 - Delve into my comprehensive solutions to intriguing problems and assignments, offering insights and approaches that foster deeper understanding.
 
-### 📚 [Books](https://github.com/itsmeuttu/textbooks)
+### 📚 [TextBooks](https://github.com/itsmeuttu/textbooks)
 - I've uploaded some of my favorite books. Feel free to explore and read them!
+
+### 📚 [NCERT TextBooks](https://github.com/itsmeuttu/NCERT)
 
 ### 🛠️ [Small Projects](https://github.com/itsmeuttu/Projects)
 - I enjoy working on small coding projects. You can check out some of my coding projects in the repositories.
