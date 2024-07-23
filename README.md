@@ -1,10 +1,12 @@
 # Welcome to Uttam's GitHub! 👋
 
-Hello! I'm Uttam, and I love sharing my knowledge on various subjects. Here you'll find a collection of my notes, projects, and books covering chemistry, mathematics, coding, and more.
+Hello! I'm Uttam, A chemistry student with a passion for programming, blending the precision of science with the creativity of coding.
+
+and I love sharing my knowledge on various subjects. Here you'll find a collection of my notes, projects, and books covering chemistry, mathematics, coding, and more.
 
 ## About Me
 
-- 💡 Exploring the wonders of chemistry, diving into the depths of mathematics, and crafting elegant code.
+- 💡 Exploring the wonders of chemistry, diving into the depths of mathematics, and crafting disocrd bots.
 - 🌱 Constantly learning and growing in the world of science and technology.
 
 
@@ -19,16 +21,14 @@ Hello! I'm Uttam, and I love sharing my knowledge on various subjects. Here you'
 ### 💻 [Coding Resources](https://github.com/itsmeuttu/coding-notes#programming-notes)
 - Whether you're a beginner or an experienced programmer, you'll find coding notes and resources that can aid your learning journey.
 
-### 📝 Assignments:
-- Delve into my comprehensive solutions to intriguing problems and assignments, offering insights and approaches that foster deeper understanding.
+### 📝 Making Disocrd Bots:
+- Discover my collection of Discord bots designed to assist students and add fun to your server. From educational tools to entertaining features, these bots aim to enhance your Discord experience.
 
 ### 📚 [TextBooks](https://github.com/itsmeuttu/textbooks)
 - I've uploaded some of my favorite books. Feel free to explore and read them!
 
-### 📚 [NCERT TextBooks](https://github.com/itsmeuttu/NCERT)
-
-### 🛠️ [Small Projects](https://github.com/itsmeuttu/Projects)
-- I enjoy working on small coding projects. You can check out some of my coding projects in the repositories.
+### 🛠️ [Projects](https://github.com/itsmeuttu/Projects)
+- I enjoy working on  coding projects. You can check out some of my coding projects in the repositories.
 
 ## How to Reach Me
 
