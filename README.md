@@ -1,7 +1,6 @@
 # Welcome to Uttam's GitHub! 👋
 
 Hello! I'm Uttam, A chemistry student with a passion for programming, blending the precision of science with the creativity of coding.
-
 and I love sharing my knowledge on various subjects. Here you'll find a collection of my notes, projects, and books covering chemistry, mathematics, coding, and more.
 
 ## About Me
