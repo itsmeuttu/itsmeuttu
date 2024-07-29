@@ -1,4 +1,5 @@
 # Welcome to Uttam's GitHub! 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=600&multiline=true&width=435&height=90&lines=Chemistry++%2B+Math+student;Programmer+and+AI+enthusiast+;Weeb" alt="Typing SVG" /></a>
 
 Hello! I'm Uttam, A chemistry student with a passion for programming, blending the precision of science with the creativity of coding.
 and I love sharing my knowledge on various subjects. Here you'll find a collection of my notes, projects, and books covering chemistry, mathematics, coding, and more.
